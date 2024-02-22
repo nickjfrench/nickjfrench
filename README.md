@@ -7,6 +7,10 @@
 
 &nbsp; I'm working as a Software Engineer at [Valencia Risk](https://valenciarisk.com).
 
+<!-- 
+### ⭐ Featured Projects
+
+-->
 ### 🛠️ Currently Working On
 &nbsp; ⌨️ &nbsp; Personal Website
 
