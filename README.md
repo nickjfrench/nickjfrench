@@ -7,15 +7,10 @@
 
 &nbsp; I'm working as a Software Engineer at [Valencia Risk](https://valenciarisk.com).
 
+&nbsp; 💬 &nbsp; Feel free to reach out on [Linkedin](https://www.linkedin.com/in/nicholas-j-french/).
+
 <!-- 
 ### ⭐ Featured Projects
 
 -->
-### 🛠️ Currently Working On
-&nbsp; ⌨️ &nbsp; Personal Website
 
-### 🌱 Currently Learning
-&nbsp; 🤖 &nbsp; AI Engineering
-
-### 📭 How to Reach Me
-&nbsp; 💬 &nbsp; Feel free to message me on [Linkedin](https://www.linkedin.com/in/nicholas-j-french/).
