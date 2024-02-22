@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋, I'm [Nick](https://github.com/nickjfrench)!
 
-<!--
-**nickjfrench/nickjfrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nicholas-j-french/) 
+<!-- [![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/nickjfrench) -->
 
-Here are some ideas to get you started:
+&nbsp; An Aussie living in Canada. 🏖️ == ☃️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp; I'm working as a Software Engineer at [Valencia Risk](https://valenciarisk.com).
+
+### 🛠️ Currently Working On
+&nbsp; ⌨️ &nbsp; Personal Website
+
+### 🌱 Currently Learning
+&nbsp; 🤖 &nbsp; AI Engineering
+
+### 📭 How to Reach Me
+&nbsp; 💬 &nbsp; Feel free to message me on [Linkedin](https://www.linkedin.com/in/nicholas-j-french/).
