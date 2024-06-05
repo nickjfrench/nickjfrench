@@ -9,8 +9,6 @@ I'm working as a Software Engineer at [Valencia Risk](https://valenciarisk.com),
 
 💬 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/nicholas-j-french/).
 
-<!-- 
 ### ⭐ Featured Projects
-
--->
+- My write-up on Microsoft's OAuth implementation on NestJS: [ms-graph-msal-nestjs](https://github.com/nickjfrench/ms-graph-msal-nestjs)
 
