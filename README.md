@@ -5,7 +5,7 @@
 
 An Aussie living in Canada. 🏖️ == ☃️
 
-I'm working as a Software Engineer at [Valencia Risk](https://valenciarisk.com), combining my passion for programming with cybersecurity.
+I'm working as a Lead Fullstack Developer at [Netrevenue](https://netrevenue.io), building apps to enable sales teams to grow.
 
 💬 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/nicholas-j-french/).
 
