@@ -5,7 +5,7 @@
 
 An Aussie living in Canada. 🏖️ == ☃️
 
-I'm working as a Lead Fullstack Developer at [Netrevenue](https://netrevenue.io), building apps to enable sales teams to grow.
+I'm working as a Lead Full Stack Developer at [Netrevenue](https://netrevenue.io), building apps to enable sales teams to grow.
 
 💬 Feel free to reach out on [Linkedin](https://www.linkedin.com/in/nicholas-j-french/).
 
